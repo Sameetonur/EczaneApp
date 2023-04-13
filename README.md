@@ -1,0 +1,2 @@
+# EczaneApp
+Eczane uygulamam C#
