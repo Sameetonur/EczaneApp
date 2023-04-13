@@ -1,0 +1,69 @@
+﻿<Window x:Class="EczaneApp.Wpf.Views.SatisViews.SatisWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EczaneApp.Wpf.Views.SatisViews"
+        mc:Ignorable="d"
+        Title="Satış Detayları" Height="450" Width="400"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="{DynamicResource MaterialDesignPaper}"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        
+        WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen"
+        Language="tr-TR">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border MouseDown="Grid_MouseDown"
+                Background="#00897B">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock
+                            VerticalAlignment="Center"
+                            Margin="10 0 0 0"
+                            Text="{Binding Title,RelativeSource={RelativeSource FindAncestor,AncestorType=Window}}"/>
+                <StackPanel Grid.Column="1"
+                                    Orientation="Horizontal"
+                                    VerticalAlignment="Center">
+                    
+                    <Button Style="{StaticResource MaterialDesignFlatButton}"
+                                    x:Name="btnClose"
+                                    Foreground="{StaticResource PrimaryHueDarkForegroundBrush}"
+                                    Click="btnClose_Click">
+                        <materialDesign:PackIcon Kind="WindowClose"/>
+                    </Button>
+                </StackPanel>
+
+            </Grid>
+        </Border>
+        <DataGrid   Grid.Row="1"
+                    AutoGenerateColumns="False"
+                    SelectionMode="Single"
+                    SelectionUnit="FullRow"
+                    IsReadOnly="True"
+                    ItemsSource="{Binding Items}"
+                    SelectedItem="{Binding SelectedItem}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="İlaç" Binding="{Binding Ilac.Ad}"/>
+                <DataGridTextColumn Header="Adet" Binding="{Binding Adet}"/>
+                <DataGridTextColumn Header="Adet Fiyat" Binding="{Binding AdetFiyat, StringFormat=C2}"/>
+                <DataGridTextColumn Header="Tutar" Binding="{Binding Tutar, StringFormat=C2}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

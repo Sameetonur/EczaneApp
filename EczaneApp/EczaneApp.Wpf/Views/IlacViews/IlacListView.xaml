@@ -1,0 +1,67 @@
+﻿<Page x:Class="EczaneApp.Wpf.Views.IlacViews.IlacListView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EczaneApp.Wpf.Views.IlacViews"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="IlacListView"
+      
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="{DynamicResource MaterialDesignPaper}"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+         Language="tr-TR">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="İlaçlar"
+                   Style="{StaticResource MaterialDesignBody1TextBlock}"
+                   Margin="10 5"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Right"/>
+        <StackPanel Orientation="Horizontal">
+            <Button Style="{StaticResource MaterialDesignFlatButton}"
+                    Command="{Binding EkleCommand}">
+                <materialDesign:PackIcon Kind="Add"/>
+            </Button>
+            <Button Style="{StaticResource MaterialDesignFlatButton}"
+                    Command="{Binding SilCommand}"
+                    CommandParameter="{Binding SelectedItem}">
+                <materialDesign:PackIcon Kind="Trash"/>
+            </Button>
+            <Button Style="{StaticResource MaterialDesignFlatButton}"
+                    Command="{Binding GuncelleCommand}"
+                    CommandParameter="{Binding SelectedItem}">
+                <materialDesign:PackIcon Kind="Pencil"/>
+            </Button>
+        </StackPanel>
+        <DataGrid
+                    Grid.Row="1"
+                    AutoGenerateColumns="False"
+                    SelectionMode="Single"
+                    SelectionUnit="FullRow"
+                    IsReadOnly="True"
+                    ItemsSource="{Binding Items}"
+                    SelectedItem="{Binding SelectedItem}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Ad" Binding="{Binding Ad}"/>
+                <DataGridTextColumn Header="SKT" Binding="{Binding SKT, StringFormat=\{0:dd.MM.yy\}}"/>
+                <DataGridTextColumn Header="Fiyat" Binding="{Binding Fiyat, StringFormat=C2}"/>
+                <DataGridTextColumn Header="Aciklama" Binding="{Binding Aciklama}"/>
+                <DataGridTextColumn Header="Adet" Binding="{Binding Adet}"/>
+                <DataGridTextColumn Header="Kategori" Binding="{Binding Kategori.Ad}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>
+

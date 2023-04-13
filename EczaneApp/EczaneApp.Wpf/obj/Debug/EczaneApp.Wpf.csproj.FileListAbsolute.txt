@@ -1,0 +1,248 @@
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe.config
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll.config
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll.config
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\App.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.cache
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.lref
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\App.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.g.resources
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.Properties.Resources.resources
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CopyComplete
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.exe
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.pdb
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.baml
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.g.cs
+C:\Users\Enes\Desktop\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe.config
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.pdb
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.pdb
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.pdb
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll.config
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.pdb
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll.config
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\App.g.cs
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.cache
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.lref
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\App.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.baml
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.g.resources
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.Properties.Resources.resources
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CopyComplete
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.exe
+C:\Users\Enes\Desktop\görsel\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe.config
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll.config
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.xml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.pdb
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll.config
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\App.g.cs
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.cache
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.lref
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\App.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.baml
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.g.resources
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.Properties.Resources.resources
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CopyComplete
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.exe
+C:\Users\samet\Desktop\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe.config
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.exe
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.Wpf.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.BusinnessLayer.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.EntityLayer.dll.config
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.xml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EntityFramework.SqlServer.xml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignColors.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.pdb
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\bin\Debug\EczaneApp.DataAccessLayer.dll.config
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.AssemblyReference.cache
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\App.g.cs
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.cache
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf_MarkupCompile.lref
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\App.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\GirisYap.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\MainWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacListView.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\IlacViews\IlacWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriListView.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KategoriViews\KategoriWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciListView.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\KullaniciViews\KullaniciWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriListView.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\MusteriViews\MusteriWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelListView.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\PersonelViews\PersonelWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisListView.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisViews\SatisWindow.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\Views\SatisYapViews\SatisYap.baml
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.g.resources
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.Properties.Resources.resources
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.GenerateResource.cache
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CoreCompileInputs.cache
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.csproj.CopyComplete
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.exe
+D:\Düzce Üniversitesi\DÜZCE ÜNİVERSİTESİ 2020-2021\görsel3projet\EczaneApp\EczaneApp.Wpf\obj\Debug\EczaneApp.Wpf.pdb

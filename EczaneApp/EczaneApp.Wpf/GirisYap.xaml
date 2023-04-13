@@ -1,0 +1,106 @@
+﻿<Window x:Class="EczaneApp.Wpf.GirisYap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EczaneApp.Wpf"
+        mc:Ignorable="d"
+        Title="EczaneApp" Height="350" Width="300"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="{DynamicResource MaterialDesignPaper}"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        
+        WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen" Icon="iconfinder_medic_6673745.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="139*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border MouseDown="Grid_MouseDown"
+                        Background="#00897B" Grid.ColumnSpan="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+
+                <TextBlock
+                            VerticalAlignment="Center"
+                            Margin="10 0 0 0"
+                            Text="{Binding Title,RelativeSource={RelativeSource FindAncestor,AncestorType=Window}}"/>
+
+                <StackPanel Grid.Column="1"
+                                    Orientation="Horizontal"
+                                    VerticalAlignment="Center">
+                    <Button Style="{StaticResource MaterialDesignFlatButton}"
+                                    x:Name="btnClose"
+                                    Click="btnClose_Click"
+                                    Foreground="{StaticResource PrimaryHueDarkForegroundBrush}"
+                                    IsCancel="True">
+                        <materialDesign:PackIcon Kind="WindowClose"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Viewbox Width="100" Height="80">
+                <Path Fill="white" Data="M16,14H13V17H11V14H8V12H11V9H13V12H16M21,5H18.35L19.5,1.85L17.15,1L15.69,5H3V7L5,13L3,19V21H21V19L19,13L21,7V5Z" />
+                
+            </Viewbox>
+
+            <StackPanel Grid.Row="1" >
+
+                <StackPanel Orientation="Horizontal" Margin="40 5">
+                    <materialDesign:PackIcon Kind="User"
+                                         VerticalAlignment="Center"
+                                         Width="20"
+                                         Height="20"
+                                         Margin="0 0 5 0"/>
+                    <TextBox x:Name="txtAd" Width="195"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         materialDesign:HintAssist.Hint="Ad"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="40 5">
+                    <materialDesign:PackIcon Kind="Password"
+                                         VerticalAlignment="Center"
+                                         Width="20"
+                                         Height="20"
+                                         Margin="0 0 5 0"/>
+                    <PasswordBox  x:Name="txtSifre" Width="195"
+                         Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                         materialDesign:HintAssist.Hint="Şifre"
+                         PasswordChar="*" MaxLength="20" />
+                </StackPanel>
+                <TextBlock
+                           x:Name="hataMesaji"
+                           Margin="40 10 40 0"
+                           FontSize="10"
+                           Foreground="red"/>
+                <Button Content="Giriş Yap"
+                        Margin="40 20"
+                        x:Name="btnGiris"
+                        Click="btnGiris_Click"
+                        IsDefault="True"/>
+
+            </StackPanel>
+        </Grid>
+
+
+
+    </Grid>
+</Window>
